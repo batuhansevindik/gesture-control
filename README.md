@@ -63,4 +63,4 @@ Press `q` to quit. On-screen text shows the current state (waiting for cross, co
 
 ## Author
 
-Batuhan Sevindik — Informatik student, Universität Paderborn.
+Batuhan Sevindik
