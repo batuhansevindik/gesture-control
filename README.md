@@ -2,12 +2,7 @@
 
 A real-time computer-vision system that maps hand gestures captured from a standard webcam to operating-system actions — locking the screen and controlling audio volume — without any additional hardware. Built with OpenCV and MediaPipe on Linux.
 
-<!--
-  DEMO — highest priority. Record a 5–8 second clip (cross gesture -> palms -> screen locks)
-  with `peek` or `byzanz` on Ubuntu, save it as docs/demo.gif in the repo, then uncomment:
-
-  ![Demo](docs/demo.gif)
--->
+![Demo](docs/demo.gif)
 
 ## Motivation
 
